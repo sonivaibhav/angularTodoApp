@@ -2,6 +2,7 @@
 - CSS framework can be utilized for full responsive app 
 (Current todo app does not have many elements on page, so it works out of the box)
 - Unit test case coverage can be improved with some more time
+- Services can be extracted into separate `/service` directory 
 
 
 # TODO App requirements
